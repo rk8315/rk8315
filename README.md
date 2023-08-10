@@ -1,15 +1,3 @@
-# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-
-## ⭐About Me
-
-🏢	I am Bob Kearns, an **Azure Systems Engineer** by day and a **Software Developer** by night.
-
-💻 I enjoy using different technologies to create applications, trying to learn something new everyday
-
-📚 Outside of technology, I am an avid reader - favorite topics include **SciFi/Fantasy**, **Mystery**, and **Professional Development**
-
-✈️ I absolutely love **traveling**, where I have been fortunate enough to visit various places around the world like Thailand, Hawaii, and the Smoky Mountains. My favorite part is to experience different cultures and taste all kinds of food.
-
 ## 🛠️Skills
 
 ### Languages
