@@ -8,8 +8,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Technologies
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
@@ -22,16 +20,7 @@
 [Developing Cloud Native Applications](https://www.credly.com/badges/c561349c-509a-49db-982c-1e14db476ae3/public_url)  
 [Developing Cloud Apps with Node.js and React](https://www.credly.com/badges/ec85b7d3-c949-4ceb-bef1-293c6b4453b5/public_url)  
 [Containers & Kubernetes Essentials](https://www.credly.com/badges/0b0f5fca-8609-432e-9a6a-e9b95bd6cce1/public_url)  
-[Python for Data Science and AI](https://www.credly.com/badges/a1503ec1-b822-4f1f-9e12-a6702b4e062b/public_url)  
-
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)  
-[The Web Developer Bootcamp 2022 (In-progress)](https://www.udemy.com/course/the-web-developer-bootcamp/)  
-
-## 🖥️ Workspace Setup
-![AMD-Radeon_R9_390x](https://img.shields.io/badge/AMD-Radeon_R9_390x-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![AMD-Ryzen_5_2600](https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+[Python for Data Science and AI](https://www.credly.com/badges/a1503ec1-b822-4f1f-9e12-a6702b4e062b/public_url)   
 
 ## Links
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/1bobkearns/)
