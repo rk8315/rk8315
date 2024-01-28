@@ -13,7 +13,7 @@
 
 ### Certifications / Courses
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
-[Microsoft Certified: Azure Administrator Associate (AZ-104)](https://www.credly.com/badges/024c7712-539b-4173-940d-2c69706e7a4f/public_url)  
+[Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/api/credentials/share/en-us/BobKearns-7342/7B750D2779D871C2?sharingId=3AB44F0EA52B1F8E)  
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  
 [Introduction to Cloud Computing](https://www.credly.com/badges/239dc095-5a48-4b95-b2dd-9d8ce60b45b2/public_url)  
